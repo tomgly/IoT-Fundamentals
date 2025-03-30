@@ -80,7 +80,8 @@ The servo is a special kind of motor that can go to a specific position and stay
 [🔗 View on Tinkercad](https://www.tinkercad.com/learn/overview/OVSD912ISCC2EMM)
 
 **Source Code:**  
-[📄 View Arduino Sketch](./Project5/Project5.ino)
+[📄 View Arduino Sketch (with potentiometer)](./Project5/Project5.ino)
+[📄 View Arduino Sketch (with ultrasonic)](./Project5/Project5-ultrasonic.ino)
 
 **Photo:**  
 ![Project 5 Image](./Project5/Project5_photo.jpg)
@@ -216,19 +217,6 @@ The switch works based on capacitive sensing - your skin becomes part of the cir
 [🔗 View on Tinkercad](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ)
 
 **Source Code:**  - [IoT Fundamentals Projects with Arduino](#iot-fundamentals-projects-with-arduino)
-- [🚀 Project 2: Spaceship Interface](#-project-2-spaceship-interface)
-- [❤️ Project 3: Love-o-Meter](#️-project-3-love-o-meter)
-- [🌈 Project 4: Color Mixing Lamp](#-project-4-color-mixing-lamp)
-- [😊 Project 5: Mood Cue](#-project-5-mood-cue)
-- [🎶 Project 6: Light Theremin](#-project-6-light-theremin)
-- [🎹 Project 7: Keyboard Instrument](#-project-7-keyboard-instrument)
-- [⏳ Project 8: Digital Hourglass](#-project-8-digital-hourglass)
-- [🌪️ Project 9: Motorized Pinwheel](#️-project-9-motorized-pinwheel)
-- [🎞️ Project 10: Zoetrope](#️-project-10-zoetrope)
-- [🔮 Project 11: Crystal Ball](#-project-11-crystal-ball)
-- [🔐 Project 12: Knock Lock](#-project-12-knock-lock)
-- [🖐️ Project 13: Touchy-Feely Lamp](#️-project-13-touchy-feely-lamp)
-- [🎨 Project 14: Tweak the Arduino Logo](#-project-14-tweak-the-arduino-logo)
 
 [📄 View Arduino Sketch](./Project13/Project13.ino)
 
