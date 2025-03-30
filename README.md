@@ -217,8 +217,7 @@ The switch works based on capacitive sensing - your skin becomes part of the cir
 **Tinkercad Simulation:**  
 [🔗 View on Tinkercad](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ)
 
-**Source Code:**  - [IoT Fundamentals Projects with Arduino](#iot-fundamentals-projects-with-arduino)
-
+**Source Code:**
 [📄 View Arduino Sketch](./Project13/Project13.ino)
 
 **Photo:**  
