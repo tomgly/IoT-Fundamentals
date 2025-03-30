@@ -4,19 +4,19 @@ This repository contains projects created during the *IoT Fundamentals* course u
 
 ## 📋 Project List
 
-- [Project 2: Spaceship Interface](#Project-2)
-- [Project 3: Love-o-Meter](#Project-3)
-- [Project 4: Color Mixing Lamp](#Project-4)
-- [Project 5: Mood Cue](#Project-5)
-- [Project 6: Light Theremin](#Project-6)
-- [Project 7: Keyboard Instrument](#Project-7)
-- [Project 8: Digital Hourglass](#Project-8)
-- [Project 9: Motorized Pinwheel](#Project-9)
-- [Project 10: Zoetrope](#Project-10)
-- [Project 11: Crystal Ball](#Project-11)
-- [Project 12: Knock Lock](#Project-12)
-- [Project 13: Touchy Feely Lamp](#Project-13)
-- [Project 14: Tweak The Arduino Logo](#Project-14)
+- [🚀 Project 2: Spaceship Interface](#-project-2-spaceship-interface)
+- [❤️ Project 3: Love-o-Meter](#️-project-3-love-o-meter)
+- [🌈 Project 4: Color Mixing Lamp](#-project-4-color-mixing-lamp)
+- [😊 Project 5: Mood Cue](#-project-5-mood-cue)
+- [🎶 Project 6: Light Theremin](#-project-6-light-theremin)
+- [🎹 Project 7: Keyboard Instrument](#-project-7-keyboard-instrument)
+- [⏳ Project 8: Digital Hourglass](#-project-8-digital-hourglass)
+- [🌪️ Project 9: Motorized Pinwheel](#️-project-9-motorized-pinwheel)
+- [🎞️ Project 10: Zoetrope](#️-project-10-zoetrope)
+- [🔮 Project 11: Crystal Ball](#-project-11-crystal-ball)
+- [🔐 Project 12: Knock Lock](#-project-12-knock-lock)
+- [🖐️ Project 13: Touchy-Feely Lamp](#️-project-13-touchy-feely-lamp)
+- [🎨 Project 14: Tweak the Arduino Logo](#-project-14-tweak-the-arduino-logo)
 
 ### 🚀 Project 2: Spaceship Interface
 
@@ -134,7 +134,7 @@ The clock uses the Arduino Uno's built in timer. Reset the clock the same way yo
 [📄 View Arduino Sketch](./Project8/Project8.ino)
 
 **Photo:**  
-![Project 8 Image](./Project8/Projec8_photo.jpg)
+![Project 8 Image](./Project8/Project8_photo.jpg)
 
 ---
 
@@ -215,7 +215,21 @@ The switch works based on capacitive sensing - your skin becomes part of the cir
 **Tinkercad Simulation:**  
 [🔗 View on Tinkercad](https://www.tinkercad.com/learn/overview/ONY3E9VISCC2VBZ)
 
-**Source Code:**  
+**Source Code:**  - [IoT Fundamentals Projects with Arduino](#iot-fundamentals-projects-with-arduino)
+- [🚀 Project 2: Spaceship Interface](#-project-2-spaceship-interface)
+- [❤️ Project 3: Love-o-Meter](#️-project-3-love-o-meter)
+- [🌈 Project 4: Color Mixing Lamp](#-project-4-color-mixing-lamp)
+- [😊 Project 5: Mood Cue](#-project-5-mood-cue)
+- [🎶 Project 6: Light Theremin](#-project-6-light-theremin)
+- [🎹 Project 7: Keyboard Instrument](#-project-7-keyboard-instrument)
+- [⏳ Project 8: Digital Hourglass](#-project-8-digital-hourglass)
+- [🌪️ Project 9: Motorized Pinwheel](#️-project-9-motorized-pinwheel)
+- [🎞️ Project 10: Zoetrope](#️-project-10-zoetrope)
+- [🔮 Project 11: Crystal Ball](#-project-11-crystal-ball)
+- [🔐 Project 12: Knock Lock](#-project-12-knock-lock)
+- [🖐️ Project 13: Touchy-Feely Lamp](#️-project-13-touchy-feely-lamp)
+- [🎨 Project 14: Tweak the Arduino Logo](#-project-14-tweak-the-arduino-logo)
+
 [📄 View Arduino Sketch](./Project13/Project13.ino)
 
 **Photo:**  
